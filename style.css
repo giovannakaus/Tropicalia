@@ -31,7 +31,7 @@
                                         /* Substitua pelo caminho da sua imagem */
                                             background-size: cover;
                                                 background-position: right;
-                                                    border-radius: 100px;
+                                                    border-radius: 30px;
                                                         width: 100%;
                                                             height: 606px;
                                                                 padding: 40px;
@@ -57,7 +57,7 @@
 
 
                                                                                                         .botao-inicio {
-                                                                                                            background-color: var(--laranja-claro);
+                                                                                                            background-color:#1f458d;
                                                                                                                 border-radius: 30px;
                                                                                                                     border: none;
                                                                                                                         width: 14em;
