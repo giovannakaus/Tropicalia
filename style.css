@@ -159,3 +159,10 @@ h2 {
 .opcoes-acessibilidade button{
     margin-bottom: 5px;
 }
+
+:root {
+    --laranja-claro: #2adada;
+    --alto-contraste-fundo: #000000;
+    --alto-contraste-texto: #ffffff;
+    --alto-contraste-link: #0c9696;
+}
