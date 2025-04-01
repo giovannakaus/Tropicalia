@@ -160,13 +160,10 @@ h2 {
     margin-bottom: 5px;
 }
 
-:root {
-    --laranja-claro: #2adada;
-    --alto-contraste-fundo: #000000;
-    --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #0c9696;
-}
-
+.apresenta-lista{
+    display:none;
+    }
+    
 .alto-contraste{
     background-color: var(--alto-contraste-fundo);
     color: var(--alto-contraste-texto);
